@@ -13,6 +13,6 @@ namespace ProGitProgrammers
         public List<string> Authors { get; set; }
         public DateTime PublicationDate { get; set; }
 
-        public string test_branch = "2";
+        public string test_branvh = "1";
     }
 }
